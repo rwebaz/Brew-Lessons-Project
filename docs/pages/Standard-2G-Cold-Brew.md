@@ -1,5 +1,5 @@
 ---
-title: Two Gallon Standard Cold Brew
+title: Standard 2G Cold Brew
 layout: default
 excerpt: Brewing your own craft beer is fun!
 hint: Always keep a clean One (1) gallon milk jug of cold, filtered water in your refrigerator ready for your next brew session.
