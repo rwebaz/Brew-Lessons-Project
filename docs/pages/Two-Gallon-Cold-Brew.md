@@ -1,5 +1,5 @@
 ---
-title: Two Gallon Cold Brew
+title: Two Gallon Standard Cold Brew
 layout: default
 excerpt: Brewing your own craft beer is fun!
 hint: Always keep a clean One (1) gallon milk jug of cold, filtered water in your refrigerator ready for your next brew session.
@@ -42,7 +42,7 @@ So, when filling your Two (2) gallon brew vessel (keg) ...
 
 3.) When the filtered water achieves a boil (212 deg F or 100 deg C), turn off the burner and move the brew pot off the burner to a neutral mount.
 
-4.) Next, pour the contents of the thick, viscous Hops & Malt Extract (HME) into the brew pot and stir, stir, stir while the water is HOT!
+4.) Next, pour the contents of your chosen thick, viscous Standard 2-gallon Hops & Malt Extract (HME), or the [Oktoberfest Lager HME](https://amzn.to/38mVZy4){:title='Click to Visit the Landing page for the Standard 2-gallon Hops & Malt Extract for Oktoberfest Lager'}{:target='_blank'} into the brew pot and stir, stir, stir while the water is HOT!
 
 **Note**. The `#HME` is a very thick, molasses-like blend.
 
