@@ -1,5 +1,5 @@
 #  
-# Template Dtd 11-18-19 
+# Template Dtd 11-18-19
 # 
 # See http://help.github.com/ignore-files/ for more about ignoring files
 # 
@@ -469,4 +469,4 @@ testem.log
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
-#
+# 
